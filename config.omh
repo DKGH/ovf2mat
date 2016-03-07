@@ -1,0 +1,11 @@
+genConfig.version: '1';
+genConfig.path: '.';
+genConfig.logger: 'omhlog.o';
+genConfig.extension: 'omf';
+genConfig.xNodes: 1;
+genConfig.yNodes: 180;
+genConfig.zNodes: 2624;
+genConfig.bin: 1;
+genConfig.doI: 1;
+genConfig.doJ: 1;
+genConfig.doK: 1;
